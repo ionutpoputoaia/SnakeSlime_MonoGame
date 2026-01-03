@@ -1,0 +1,12 @@
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
