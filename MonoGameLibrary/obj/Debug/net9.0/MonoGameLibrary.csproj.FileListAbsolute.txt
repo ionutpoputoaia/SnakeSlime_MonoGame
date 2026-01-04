@@ -10,3 +10,4 @@ C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\Mo
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json

@@ -42,3 +42,5 @@ C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\Sn
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\audio\theme.ogg
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\audio\theme.xnb
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\fonts\04B_30.xnb
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\obj\Debug\net9.0\SnakeTutorial.sourcelink.json
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\fonts\04B_30_5x.xnb
