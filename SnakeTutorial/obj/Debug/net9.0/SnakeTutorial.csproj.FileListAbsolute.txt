@@ -44,3 +44,10 @@ C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\Sn
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\fonts\04B_30.xnb
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\obj\Debug\net9.0\SnakeTutorial.sourcelink.json
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\fonts\04B_30_5x.xnb
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\images\background-pattern.xnb
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\audio\ui.xnb
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\GumCommon.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\FlatRedBall.InterpolationCore.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\MonoGameGum.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\TextCopy.dll
