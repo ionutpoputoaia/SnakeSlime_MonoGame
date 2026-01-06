@@ -52,3 +52,4 @@ C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\Sn
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\TextCopy.dll
 C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\fonts\04b_30.fnt
+C:\Users\Ionut\Documents\Visual_Studio_Code\C#_Development\SnakeGame-Tutorial\SnakeTutorial\bin\Debug\net9.0\Content\effects\grayscaleEffect.xnb

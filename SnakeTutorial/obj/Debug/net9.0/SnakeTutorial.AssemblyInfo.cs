@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnakeTutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f6f1c64331dd730ad7648479bb6fdd815ae0501")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+451481a6e17a9fa56263401b8056e460612415e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnakeTutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnakeTutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

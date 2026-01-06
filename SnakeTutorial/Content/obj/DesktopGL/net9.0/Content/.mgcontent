@@ -8,6 +8,7 @@
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/audio/collect.wav</File>
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/audio/theme.ogg</File>
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/audio/ui.wav</File>
+    <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/effects/grayscaleEffect.fx</File>
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/fonts/04B_30_5x.spritefont</File>
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/fonts/04B_30.spritefont</File>
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/images/atlas.png</File>
@@ -15,6 +16,7 @@
     <File>C:/Users/Ionut/Documents/Visual_Studio_Code/C#_Development/SnakeGame-Tutorial/SnakeTutorial/Content/images/logo.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
