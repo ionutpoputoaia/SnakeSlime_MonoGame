@@ -59,6 +59,14 @@ public static class GameController
     }
 
     /// <summary>
+    /// Returns true if the player has triggered the "space action"
+    /// </summary>
+    public static bool PressSpace()
+    {
+        return s_keyboard.IsKeyDown(Keys.Space);
+    }
+
+    /// <summary>
     /// Returns true if the player has triggered the "pause" action.
     /// </summary>
     public static bool Pause()

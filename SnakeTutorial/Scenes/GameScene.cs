@@ -8,6 +8,7 @@ using MonoGameGum;
 using MonoGameLibrary;
 using MonoGameLibrary.Graphics;
 using MonoGameLibrary.Scenes;
+using System.Collections.Specialized;
 
 namespace SnakeTutorial.Scenes;
 
@@ -123,6 +124,9 @@ public class GameScene : Scene
 
         // Reset the score.
         _score = 0;
+
+        // Update the UI to reflect the reset score.
+        _ui.UpdateScoreText(_score);
 
         // Set the game state to playing.
         _state = GameState.Playing;

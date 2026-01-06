@@ -243,6 +243,8 @@ public class GameSceneUI : ContainerRuntime
         {
             RetryButtonClick(sender, args);
         }
+
+        //Core.Input.Keyboard.ClearState();
     }
 
     private void OnQuitButtonClicked(object sender, EventArgs args)
@@ -259,6 +261,8 @@ public class GameSceneUI : ContainerRuntime
         {
             QuitButtonClick(sender, args);
         }
+
+        Core.Input.Keyboard.ClearState();
     }
 
     private void OnElementGotFocus(object sender, EventArgs args)
@@ -319,6 +323,7 @@ public class GameSceneUI : ContainerRuntime
     public void HideGameOverPanel()
     {
         _gameOverPanel.IsVisible = false;
+        if (_retryButton != null)   _retryButton.IsFocused = false;
     }
 
     /// <summary>

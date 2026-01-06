@@ -11,7 +11,7 @@ public class Slime
 {
     // A constant value that represents the amount of time to wait between
     // movement updates.
-    private static readonly TimeSpan s_movementTime = TimeSpan.FromMilliseconds(200);
+    private static TimeSpan s_movementTime = TimeSpan.FromMilliseconds(200);
 
     // The amount of time that has elapsed since the last movement update.
     private TimeSpan _movementTimer;
@@ -89,6 +89,17 @@ public class Slime
 
     private void HandleInput()
     {
+        // Check if the player just pressed Space to activate a speed boost
+        if(GameController.PressSpace())
+        {
+            // Activate the speed boost timer
+            s_movementTime = TimeSpan.FromMilliseconds(150);
+        }
+        else
+        {
+            s_movementTime = TimeSpan.FromMilliseconds(200);
+        }
+
         Vector2 potentialNextDirection = Vector2.Zero;
 
         if (GameController.MoveUp())
@@ -133,7 +144,7 @@ public class Slime
         if (_inputBuffer.Count > 0)
         {
             _nextDirection = _inputBuffer.Dequeue();
-        }
+        }    
 
         SlimeSegment head = _segments[0];
         // Capture the value of the head segment
